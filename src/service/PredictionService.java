@@ -20,4 +20,4 @@ public class PredictionService {
             r.setProbability(probability);
         }
     }
-}   
+}

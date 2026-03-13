@@ -1,7 +1,9 @@
 # -_prediccion_probabilistica_con_datos_java_swing_- :.
 📊 Predicción Probabilística con Datos (Java Swing):
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/54855df9-5074-414e-9ca2-4bac077f1546" />  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/54855df9-5074-414e-9ca2-4bac077f1546" />	
+
+
 
 Proyecto desarrollado en Java con interfaz gráfica (Swing) que permite analizar datos históricos y calcular probabilidades de ocurrencia.
 

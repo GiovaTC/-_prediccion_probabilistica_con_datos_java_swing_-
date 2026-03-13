@@ -25,5 +25,10 @@ public class DataRecord {
 
     public void setProbability(double probability) {
         this.probability = probability;
-    }   
+    }
 }
+
+/* Este modelo representa un evento dentro del dataset.
+Ejemplo:
+Categoria	Cantidad	Probabilidad
+//A	        10	      0.40             */
